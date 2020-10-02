@@ -1,0 +1,48 @@
+body{
+    background-image: url(../Images/human.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: linen;
+   font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.Home
+{
+position: absolute;
+top:50%;
+left: 50%;
+margin-left: -185px;
+margin-top: -60px;
+
+}
+.Home>h1
+{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+a
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -145px;
+    
+    margin-inline-end: 20px;
+    
+
+    color: skyblue;
+    text-decoration: none;
+    border: slategrey;
+    text-align: left;
+    padding: 8px 15px;
+    background-color: snow;
+    border-radius: 3px;
+    
+    
+}
